@@ -1,4 +1,4 @@
-miipy.box
+portable.box
 =========
 
 A node-webkit app for demonstration using dropbox api. This is for demonstration purposes only
@@ -21,8 +21,9 @@ var client = new Dropbox.Client({
     key : 'your_dropbox_app_key'
 });
 ```
-Where can I get my dropbox app key?
-https://www.dropbox.com/developers/support
+>Where can I get my dropbox app key?
+>please refer to: https://www.dropbox.com/developers/support
+
 
 * Adding a oauth2 redirect-uri to Dropbox App Console
 Redirect url looks like this:
