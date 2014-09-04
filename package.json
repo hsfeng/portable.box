@@ -1,0 +1,14 @@
+{
+  "name": "portable.box",
+  "main": "app://htdocs/index.html",
+  "version": "0.0.1",
+  "single-instance": true,
+  "window": {
+    "title": "Portable.box",
+    "width": 640,
+    "height": 480,
+    "min_width": 320,
+    "min_height": 480,
+    "toolbar": false
+  }
+}
